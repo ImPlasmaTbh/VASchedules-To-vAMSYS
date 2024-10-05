@@ -1,0 +1,15 @@
+{
+  "name": "vaschedules-to-vamsys",
+  "version": "1.0.0",
+  "description": "Convertes routes from VASchedules to a vAMSYS v5 compatible file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ImPlasma",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "fast-csv": "^5.0.1"
+  }
+}
